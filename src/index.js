@@ -34,7 +34,7 @@ const Image = () => {
 
 const Title = () => {
     return (
-        <h3>The World of Adventures</h3>
+        <h3 style={{color:'#617d98'}}>The World of Adventures</h3>
     );
 }
 
